@@ -1,1 +1,4 @@
-this is my tst file
+this is my tstfile that is edited
+this is edited again
+this line was not added to staging area
+ 
