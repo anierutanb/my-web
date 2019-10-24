@@ -1,0 +1,2 @@
+this is the file on b1
+to be mergeeeed with master conf.txt
